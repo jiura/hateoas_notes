@@ -137,7 +137,7 @@ Of course, the vast majority of web applications are nowhere near the scale and 
 
 ### Some extra comments:
 
-![[Pasted image 20241220012559.png]]
+![stack_overflow_comments](./Pasted image 20241220012559.png)
 
 "That this does not map all to well to OO designs is not the problem of REST but the incapability of OO languages to adopt to changes in their class models on the fly. While it is technically possible to maintain the received data in generic data trees such as maps, collections or dictionaries (or whatever they are called in your OOP language of your choice), usually the data is mapped to concrete business objects assuming that the data already follows a certain domain model, which usually leads to failure if something unexpected appears in that data.
 
